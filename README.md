@@ -141,33 +141,6 @@ The project successfully generated a realistic workplace safety dataset suitable
 
 ---
 
-## Repository Structure
-
-```
-Workplace-Safety-Analytics/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_Data_Generation.ipynb
-│   ├── 02_EDA.ipynb
-│   ├── 03_Modeling.ipynb
-│   └── 04_Evaluation.ipynb
-│
-├── documentation/
-│   └── Workplace Safety Incidents.docx
-│
-├── figures/
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
-
 ## Future Improvements
 
 Potential improvements include:
